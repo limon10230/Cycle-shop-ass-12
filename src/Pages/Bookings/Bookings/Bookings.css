@@ -1,0 +1,11 @@
+.container{
+     /* box-shadow: 10px 10px 40px gray; */
+    margin: 20px;
+}
+
+form input{
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid gray;
+    width: 80%;
+}
